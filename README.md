@@ -27,4 +27,4 @@ Student Performance Dataset
 - Pass percentage tracking
 
 ## Dashboard Preview
-![Dashboard Screenshot](DASHBOARD SCREENSHOT.png)
+![Dashboard Screenshot](Dashboard Screenshot.png)
